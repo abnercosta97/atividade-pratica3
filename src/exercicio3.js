@@ -9,3 +9,4 @@ function imprimir(a,b) {
     }
 }
 imprimir(10,5);
+imprimir(19,15);
