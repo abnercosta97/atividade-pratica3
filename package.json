@@ -1,0 +1,27 @@
+{
+  "name": "atividade-pratica3",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000A\u0000t\u0000i\u0000v\u0000i\u0000d\u0000a\u0000d\u0000e\u0000 \u0000p\u0000r\u0000a\u0000t\u0000i\u0000c\u0000a\u0000 \u00003\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "um": "node ./src/exercicio1",
+    "dois": "node ./src/exercicio2",
+    "tres": "node ./src/exercicio3",
+    "quatro": "node ./src/exercicio4",
+    "cinco": "node ./src/exercicio5",
+    "seis": "node ./src/exercicio6",
+    "sete": "node ./src/exercicio7",
+    "oito": "node ./src/exercicio8"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abnercosta97/atividade-pratica3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abnercosta97/atividade-pratica3/issues"
+  },
+  "homepage": "https://github.com/abnercosta97/atividade-pratica3#readme"
+}
