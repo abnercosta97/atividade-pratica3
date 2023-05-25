@@ -11,7 +11,9 @@
     "cinco": "node ./src/exercicio5",
     "seis": "node ./src/exercicio6",
     "sete": "node ./src/exercicio7",
-    "oito": "node ./src/exercicio8"
+    "oito": "node ./src/exercicio8",
+    "nove": "node ./src/exercicio9",
+    "dez": "node ./src/exercicio10"
   },
   "repository": {
     "type": "git",
